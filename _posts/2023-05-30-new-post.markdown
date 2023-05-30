@@ -1,1 +1,6 @@
-newPost
+---
+layout: post
+title:  "New Post"
+date:   2023-05-30 10:26:30 +0200
+categories: jekyll update
+---
